@@ -2,6 +2,7 @@ sounddevice==0.4.2
 soundfile==0.10.3.post1
 numpy==1.21.4
 pydub==0.25.1
+pywin32==302
 openai==0.11.3
 pyaudio==0.2.11
 keyboard==0.13.5
