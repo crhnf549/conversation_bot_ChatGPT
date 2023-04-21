@@ -281,7 +281,7 @@ def chat(covnversationHistory):
 #####################
 # OpenAI APIの初期化 #
 #####################
-openai.api_key = "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"
+openai.api_key = ""
 
 
 conversationHistory = [] # UserとChatGPTとの会話履歴を格納するリスト
