@@ -7,6 +7,8 @@ You can switch modes with the keyboard's 1, 2, 3.
 - Mode 2: Text input
 - Mode 3: For debugging
 
+If you want to end the conversation, press key 8 or pronaunce "会話終了" in Japanese.
+
 Required libraries
 import sounddevice as sd
 import soundfile as sf
