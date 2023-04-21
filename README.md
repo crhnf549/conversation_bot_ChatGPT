@@ -1,6 +1,6 @@
 # conversation_bot_ChatGPT
 
-This is a voice chat bot using ChatGPT and Whisper's API.
+This is a voice chat bot using ChatGPT and Whisper's API(you need your own API key).
 It can accept input from the user even in the middle of a response.
 You can switch modes with the keyboard's 1, 2, 3.
 - Mode 1: Voice input
